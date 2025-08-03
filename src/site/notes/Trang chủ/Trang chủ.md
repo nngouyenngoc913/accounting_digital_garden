@@ -2,7 +2,7 @@
 {"dg-publish":true,"dg-home":true,"permalink":"/trang-chu/trang-chu/","tags":["gardenEntry"],"dgPassFrontmatter":true,"noteIcon":""}
 ---
 
-
+# Trang chủ
 Database về kế toán - thuế - tài chính giúp việc tra cứu thông tin và học và làm việc trở nên đỡ tốn thời gian - dễ hiểu - dễ nhớ - dễ tìm - 1 cách hệ thống - từ 1 bộ não của 1 bộ não "cá vàng"
 
 # Mục lục 
