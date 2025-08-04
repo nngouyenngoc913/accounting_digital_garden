@@ -3,7 +3,11 @@
 ---
 
 # Trang chủ
-Database về kế toán - thuế - tài chính giúp việc tra cứu thông tin và học và làm việc trở nên đỡ tốn thời gian - dễ hiểu - dễ nhớ - dễ tìm - 1 cách hệ thống - từ 1 bộ não của 1 bộ não "cá vàng"
+Database về Kế toán - (sau này sẽ cập nhật thêm) 
+
+Mình thiết kế nhằm mục đích tiện tra cứu và lưu trữ tài liệu và nghiên cứu - đơn giản, nhanh, dễ sử dụng, không tốn thời gian,... trên nền tảng công nghệ với nền tảng của 1 Non-Coder và 1 cái đầu "tò mò" không điểm dừng. 
+
+Mình muốn hướng tới 1 mục tiêu duy nhất : Build a Second Brain. Dự án này, mình lấy mã nguồn mở từ Digital Garden - do anh Wanderloots lập ra. 
 
 # Mục lục 
 
@@ -13,15 +17,14 @@ Database về kế toán - thuế - tài chính giúp việc tra cứu thông ti
 **Kế toán** 
 -Nguyên lí kế toán
 -Luật và Chuẩn mực kế toán 
--Bài tập và ứng dụng
+-Bài tập và ứng dụng : Studocs hân hạnh tài trợ. Shout out cho các bạn bên Đại Học Kinh Tế
 -Spreadsheet
 **Thuế**
--Mindmap
--Luật
--Bài tập
+-Mindmap : Tự làm
+-Luật 
+-Bài tập : Studocs hân hạnh tài trợ. Shout out cho các bạn bên Đại Học Kinh Tế
 **Tài chính**
--UBCK : Đào tạo MG Chứng khoán (phiên bản cũ từ 2020)
--Spreadsheet 
+-To be update later
 
 **Lưu ý** : Đây là tài liệu mang tính chất tham khảo, do tác giả tự sưu tầm và góp nhặt, vì thế, đề nghị người đọc phải có kiến thức từ trước để chọn lọc thông tin phù hợp với mục đích sử dụng. 
 
