@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":true,"permalink":"/trang-chu/trang-chu/","tags":["gardenEntry"],"dgPassFrontmatter":true,"noteIcon":""}
+{"dg-publish":true,"dg-home":false,"permalink":"/trang-chu/trang-chu/","dgPassFrontmatter":true,"noteIcon":""}
 ---
 
 # Trang chủ
@@ -13,7 +13,7 @@ Mình muốn hướng tới 1 mục tiêu duy nhất : Build a Second Brain. D�
 
 **Guideline/Mindmap**
 [[IFRS VÀ IAS - NGUỒN IFRS.ORG/IAS/IAS LEARNING/Learning map\|Learning map]]
-[[Learning map/Template/MỤC LỤC HỌC CONCEPTUAL FRAMEWORK\|MỤC LỤC HỌC CONCEPTUAL FRAMEWORK]]
+[[Learning map/Template/CONCEPTUAL FRAMEWORK GUIDELINE\|CONCEPTUAL FRAMEWORK GUIDELINE]]
 **Kế toán** 
 -Nguyên lí kế toán
 -Luật và Chuẩn mực kế toán 
