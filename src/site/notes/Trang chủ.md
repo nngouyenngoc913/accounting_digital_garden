@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/trang-chu/","tags":["gardenEntry"],"noteIcon":"","created":"2026-05-02T19:09:59.815+07:00","updated":"2026-05-02T19:18:59.590+07:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/trang-chu/","noteIcon":"","created":"2026-05-02T19:09:59.815+07:00","updated":"2026-05-02T19:33:24.747+07:00","dg-note-properties":{}}
 ---
 
 Đây là thư viện phục vụ mục đích tích luỹ kiến thức ngành Kế toán
