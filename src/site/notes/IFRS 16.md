@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ifrs-16/","noteIcon":"","created":"2025-09-07T00:06:11.761+07:00","updated":"2025-09-07T00:06:11.761+07:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/ifrs-16/","dg-note-properties":{}}
 ---
 
 # Bản đồ học tập IFRS 16 - Thuê tài sản

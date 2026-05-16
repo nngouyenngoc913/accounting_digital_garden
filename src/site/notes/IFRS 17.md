@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ifrs-17/","noteIcon":"","created":"2025-09-07T00:06:11.756+07:00","updated":"2025-09-07T00:06:11.756+07:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/ifrs-17/","dg-note-properties":{}}
 ---
 
 # Bản đồ học tập IFRS 17 - Hợp đồng bảo hiểm
