@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/other-notes/ifrs-02-giao-dich-thanh-toan-tren-co-so-co-phieu-1/","noteIcon":"","created":"2025-09-07T00:06:11.825+07:00","updated":"2025-09-07T00:06:11.825+07:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/other-notes/ifrs-02-giao-dich-thanh-toan-tren-co-so-co-phieu-1/","dg-note-properties":{}}
 ---
 
 

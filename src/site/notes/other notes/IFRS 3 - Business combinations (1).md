@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/other-notes/ifrs-3-business-combinations-1/","noteIcon":"","created":"2025-09-07T00:06:11.817+07:00","updated":"2025-09-07T00:06:11.818+07:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/other-notes/ifrs-3-business-combinations-1/","dg-note-properties":{}}
 ---
 
 # Bản đồ học tập IFRS 3 - Hợp nhất kinh doanh
