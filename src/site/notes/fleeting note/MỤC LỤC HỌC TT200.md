@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/fleeting-note/muc-luc-hoc-tt-200/","noteIcon":"","created":"2025-09-03T11:01:48.169+07:00","updated":"2025-09-03T16:54:37.708+07:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/fleeting-note/muc-luc-hoc-tt-200/","dg-note-properties":{}}
 ---
 
 
